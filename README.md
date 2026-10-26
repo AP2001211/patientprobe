@@ -72,7 +72,7 @@ The outbound SIP trunk must be configured in LiveKit Cloud before making calls.
 Clone the repository and enter the project directory:
 
 ```bash
-git clone <PRIVATE_REPOSITORY_URL>
+git clone https://github.com/AP2001211/patientprobe
 cd voiceprobe
 ```
 
