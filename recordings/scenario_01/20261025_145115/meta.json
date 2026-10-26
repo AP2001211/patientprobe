@@ -1,0 +1,13 @@
+{
+  "scenario_id": "01",
+  "name": "New patient appointment",
+  "test_focus": "New-patient intake, scheduling, unsupported claims about requirements",
+  "expected": "Collects name and DOB, offers real afternoon times next week, confirms the date and time clearly. If it states referral or paperwork rules, they should sound like the clinic's policy, not guesses.",
+  "overrides": {},
+  "session_settings": {
+    "min_endpointing_delay": 0.6,
+    "max_endpointing_delay": 4.0,
+    "allow_interruptions": true
+  },
+  "started_at": "2026-10-25T18:51:15.141997+00:00"
+}

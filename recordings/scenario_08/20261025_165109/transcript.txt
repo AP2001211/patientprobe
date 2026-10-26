@@ -1,0 +1,21 @@
+[00:11.6] RECEPTIONIST: This call may be recorded for quality and training
+[00:23.2] RECEPTIONIST: Thank you for calling Pivot Point Orthopaedics. Would you like to create a demo patient profile today? I just need your first and last name to get started.
+[00:27.6] PATIENT: I’m actually looking to schedule a consultation. My name is Sophia Bennett.
+[00:39.8] RECEPTIONIST: Your patient profile is set up and your date of birth is July fourth two thousand for demo purposes. How can I help you today?
+[00:50.3] PATIENT: Actually, my date of birth is February 17, 1993. I’d like to ask about scheduling a consultation. Do you have any openings on Tuesday afternoon?
+[01:01.4] RECEPTIONIST: Are you a new patient looking to establish care? Or are you returning for a follow-up consultation? This will help me find the right type of appointment for you.
+[01:07.9] PATIENT: I’m new and looking to establish care. So, do you have any openings for Tuesday afternoon?
+[01:19.1] RECEPTIONIST: We have several openings on Tuesday afternoon, Would you prefer to see Abeker or Dudeehauser, or do you have no preference?
+[01:23.8] PATIENT: I don’t have a preference between the two. Can you tell me what time slots are available?
+[01:38.4] RECEPTIONIST: On Tuesday, October twenty seventh, we have afternoon openings at twelve forty five, three forty five, four thirty and five fifteen. Would you like to book the twelve forty five slot?
+[01:44.2] PATIENT: Hmm, actually, would Wednesday afternoon work better for me? Do you have any openings then?
+[01:58.1] RECEPTIONIST: On Wednesday, October twenty eighth, the available times are in the morning only, nine and ten thirty, both with Aprecur. Would you like to look at Thursday afternoon instead?
+[02:03.2] PATIENT: I see. What about Thursday afternoon? Do you have any available slots then?
+[02:15.6] RECEPTIONIST: We have several Thursday afternoon openings with Doobie Hauser, The first available is at twelve forty five. Would you like to book that time?
+[02:22.7] PATIENT: Yes, let's go with the twelve forty five slot on Thursday afternoon. Just to be sure, which day is that for?
+[02:43.1] RECEPTIONIST: Your appointment is set for Thursday, October twenty ninth at twelve forty five PM with Dugi, Hauser at Pivot Point Orthopedics. Please bring your photo ID, insurance card, and a list of current medications. Would you like me to text you these details?
+[02:47.1] PATIENT: I’d rather be contacted by phone. That sounds good.
+[02:59.5] RECEPTIONIST: You're all set for Thursday, October twenty ninth at twelve forty five PM with Judy Hauser. The clinic will contact you by phone if there are any updates.
+[03:01.9] RECEPTIONIST: Is there anything else I can help you with today?
+[03:05.1] PATIENT: No, that’s everything I need. Thank you!
+[03:10.3] RECEPTIONIST: You're all set. Have a great day.

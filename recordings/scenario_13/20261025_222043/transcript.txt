@@ -1,0 +1,18 @@
+[00:11.7] RECEPTIONIST: This call may be recorded for quality and training purposes.
+[00:23.4] RECEPTIONIST: You for calling Pivot Point Orthopaedics. Would you like to create a demo patient profile? I just need your first and last name to get started.
+[00:25.1] PATIENT: My name is Walter Hughes.
+[00:41.0] RECEPTIONIST: Your patient profile is set up and your date of birth is July fourth two thousand for demo purposes. How may I help you today?
+[00:50.0] PATIENT: Sorry, my date of birth is February 28, 1958. I'd like to book a follow-up appointment for my shoulder.
+[01:00.9] RECEPTIONIST: You'd like to book a follow-up appointment for your shoulder? Just to confirm, is this a return visit after a previous appointment for your shoulder?
+[01:02.5] PATIENT: Yes, that's right.
+[01:11.1] RECEPTIONIST: Do you have a specific provider you'd like to see, or are you open to any of available provider for your follow-up?
+[01:13.8] PATIENT: I'm open to any available provider.
+[01:29.1] RECEPTIONIST: Let me check the schedule for the next available follow-up appointment for your shoulder. One moment. I found several openings for a follow-up on Monday, October twenty sixth. Would you prefer a morning or afternoon appointment?
+[01:31.4] PATIENT: I’d prefer a morning appointment.
+[01:42.8] RECEPTIONIST: The earliest morning slot is at eleven AM with Dugie Hauser on Monday, October twenty sixth. Would you like to book this time?
+[01:47.8] PATIENT: Yes, I'd like to book that time. Could I speak to a real person, by the way?
+[02:01.2] RECEPTIONIST: Your follow-up appointment is booked for Monday, October twenty six, at eleven AM with Judy Hauser at Pivot Point Orthopaedics.
+[02:19.3] RECEPTIONIST: Please bring your photo ID, insurance card, a list of your current medications, and any imaging discs you have. You like me to text you these appointment details? Also, I can connect you to our patient support team if you still want to speak with a real person. Would you like to continue with me, or should I transfer you?
+[02:25.2] PATIENT: I'd like to be transferred to speak with a real person, please. How long might that take?
+[02:30.2] RECEPTIONIST: Transferring you now. Thank you.
+[02:32.9] RECEPTIONIST: Hello.

@@ -1,0 +1,15 @@
+[00:11.7] RECEPTIONIST: This call may be recorded for quality and training purposes.
+[00:23.2] RECEPTIONIST: Thank you for calling Pivot Point Orthopaedics. Would you like to create a demo patient profile, I just need your first and last name to get started.
+[00:28.6] PATIENT: Yes, I'd like to create a demo patient profile. My name is Priya Raman.
+[00:41.8] RECEPTIONIST: Your demo patient profile is set up. And your date of birth is July fourth two thousand for this demo. How may I help you today?
+[00:51.0] PATIENT: My date of birth is actually April 21, 1986. I wanted to ask about the clinic's hours on Tuesdays and Wednesdays.
+[01:06.2] RECEPTIONIST: Thanks for letting me know about your date of birth. For clinic hours on Tuesdays, we are open from nine AM to four PM. And on Wednesdays from twelve PM to seven PM. Is there anything else you'd like to know?
+[01:17.3] PATIENT: Yes, I'd like to know the latest available appointment on Tuesday, October 27, and the earliest available appointment on Wednesday, October 28.
+[01:32.0] RECEPTIONIST: Before I check the schedule, can you tell me what kind of visit you need? For example, is this for a routine checkup, a follow-up, a new patient consultation, a procedure, or something else?
+[01:34.5] PATIENT: It's for a routine checkup.
+[02:01.2] RECEPTIONIST: You already have a routine office visit scheduled with doctor Zibignu Likosky on Friday, November twenty seventh at ten AM at Pivot Point Orthopaedics. Since you can't book a second appointment of the same type would you like to reschedule your current appointment? Or ask about a different type of visit?
+[02:12.8] PATIENT: I haven't booked anything yet. I'm just exploring options, so I'd still like to know the latest available appointment on Tuesday, October 27, and the earliest on Wednesday, October 28.
+[02:30.9] RECEPTIONIST: Since there's already a routine checkup booked in the system, I can't look up new options for the same type right now. If you want, I can help you reschedule your current appointment to a different day or time, or check availability for a different type of visit. What would you like to do?
+[02:36.3] PATIENT: I understand. If I decide to make changes, what would be the next step?
+[02:48.4] RECEPTIONIST: If you decide to make changes, I can help you reschedule your current appointment to a new date and time. Just let me know your preference, and I'll walk you through the process.
+[02:52.2] PATIENT: Okay, I'll think about it. Goodbye.

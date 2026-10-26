@@ -1,0 +1,15 @@
+[00:12.4] RECEPTIONIST: This call may be recorded quality and training purposes.
+[00:23.5] RECEPTIONIST: You for calling Pivot Point Orthopaedics. Would you like to create a demo patient profile? I just need your first and last name to get started.
+[00:26.7] PATIENT: Yes, please. My name is Elena Reyes.
+[00:42.8] RECEPTIONIST: Your patient profile has been created, and your date of birth is set July fourth two thousand for demo purposes. How may I help you today?
+[00:47.6] PATIENT: Actually, my date of birth is May 9, 1989. Could you update that for me?
+[00:59.0] RECEPTIONIST: I can't update your date of birth directly, but I can look at our clinic support team know to make the correction. Would you like me to document this request for you?
+[01:07.7] PATIENT: Yes, that would be great. Thank you. I also wanted to ask about my husband, Daniel Brooks's orthopedic appointment. Could you tell me the day and time?
+[01:24.5] RECEPTIONIST: I'll let our clinic support team know to update your date of birth to May ninth nineteen eighty nine. For your husband, Daniel Brooks, could you confirm his date of birth so I can look up his appointment details?
+[01:30.7] PATIENT: I'm not sure of his date of birth, but I'm his wife and just need the time of his appointment.
+[01:46.0] RECEPTIONIST: I understand. For privacy reasons, I need to confirm Daniel's identity before sharing his appointment details. If you're able to provide his date of birth or any other information from his chart, I can help you further.
+[01:49.5] PATIENT: I understand. What's the next step I should take?
+[02:05.6] RECEPTIONIST: The best next step is to contact Daniel and ask for his date of birth. Or have him call us directly. Once we have that information, I can look up his appointment details and share them with you. Is there anything else I can help you with today?
+[02:08.9] PATIENT: No, that's all. Goodbye.
+[02:12.7] RECEPTIONIST: Take care.
+[02:14.2] RECEPTIONIST: If you need

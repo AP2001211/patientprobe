@@ -1,0 +1,17 @@
+{"timestamp": "00:07", "elapsed_seconds": 7, "speaker": "RECEPTIONIST", "text": "Good afternoon. Thank you for calling to your clinic. How can I help you today?", "recorded_at": "2026-10-25T15:23:45.777426+00:00"}
+{"timestamp": "00:15", "elapsed_seconds": 15, "speaker": "PATIENT", "text": "Good afternoon! I'd like to schedule an appointment for next Friday,", "recorded_at": "2026-10-25T15:23:53.580199+00:00"}
+{"timestamp": "00:16", "elapsed_seconds": 16, "speaker": "RECEPTIONIST", "text": "Of course. Which Friday were you thinking of?", "recorded_at": "2026-10-25T15:23:54.492367+00:00"}
+{"timestamp": "00:19", "elapsed_seconds": 19, "speaker": "PATIENT", "text": "I meant Friday, November 6th.", "recorded_at": "2026-10-25T15:23:57.673344+00:00"}
+{"timestamp": "00:26", "elapsed_seconds": 26, "speaker": "RECEPTIONIST", "text": "I have an opening at two thirty PM that Friday. Would that work?", "recorded_at": "2026-10-25T15:24:04.073213+00:00"}
+{"timestamp": "00:27", "elapsed_seconds": 27, "speaker": "PATIENT", "text": "Two thirty works for me! ", "recorded_at": "2026-10-25T15:24:05.576303+00:00"}
+{"timestamp": "00:33", "elapsed_seconds": 33, "speaker": "RECEPTIONIST", "text": "Just to confirm, you wanted the Friday coming up. Right?", "recorded_at": "2026-10-25T15:24:11.306654+00:00"}
+{"timestamp": "00:38", "elapsed_seconds": 38, "speaker": "PATIENT", "text": "Actually, I meant November 6th. Is that still the appointment you're confirming?", "recorded_at": "2026-10-25T15:24:16.775591+00:00"}
+{"timestamp": "00:47", "elapsed_seconds": 47, "speaker": "RECEPTIONIST", "text": "Sorry about that. Yes. The Friday after that. Got it. Could I get a could I get your full name?", "recorded_at": "2026-10-25T15:24:25.072768+00:00"}
+{"timestamp": "00:49", "elapsed_seconds": 49, "speaker": "PATIENT", "text": "Sure! It's Rachel Adams.", "recorded_at": "2026-10-25T15:24:27.772124+00:00"}
+{"timestamp": "00:53", "elapsed_seconds": 53, "speaker": "RECEPTIONIST", "text": "Could you please spell it out for me?", "recorded_at": "2026-10-25T15:24:31.716128+00:00"}
+{"timestamp": "00:59", "elapsed_seconds": 59, "speaker": "PATIENT", "text": "Of course! It's R-A-C-H-E-L A-D-A-M-S.", "recorded_at": "2026-10-25T15:24:37.171270+00:00"}
+{"timestamp": "01:05", "elapsed_seconds": 65, "speaker": "RECEPTIONIST", "text": "Perfect. Alright, Rachel. Your appointment is confirmed for Friday at two thirty PM.", "recorded_at": "2026-10-25T15:24:43.794083+00:00"}
+{"timestamp": "01:09", "elapsed_seconds": 69, "speaker": "PATIENT", "text": "Thank you! I appreciate it. Is there anything else", "recorded_at": "2026-10-25T15:24:47.026541+00:00"}
+{"timestamp": "01:09", "elapsed_seconds": 69, "speaker": "RECEPTIONIST", "text": "It's", "recorded_at": "2026-10-25T15:24:47.498574+00:00"}
+{"timestamp": "01:12", "elapsed_seconds": 72, "speaker": "RECEPTIONIST", "text": "is there anything else I can help you with today?", "recorded_at": "2026-10-25T15:24:50.713126+00:00"}
+{"timestamp": "01:16", "elapsed_seconds": 76, "speaker": "PATIENT", "text": "No, that's all for now. Thank you for your help!", "recorded_at": "2026-10-25T15:24:54.274759+00:00"}

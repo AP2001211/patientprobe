@@ -1,0 +1,21 @@
+[00:14.0] RECEPTIONIST: This call may be recorded for quality and training purposes.
+[00:14.7] PATIENT: Okay.
+[00:16.0] RECEPTIONIST: Thank you for
+[00:16.8] PATIENT: Hello?
+[00:21.8] RECEPTIONIST: Hi there. How can I help you today?
+[00:26.5] PATIENT: Hi, I was wondering if your clinic accepts Blue Cross Blue Shield insurance?
+[00:33.3] RECEPTIONIST: I can help with that. Before I check, would you like to create a demo patient profile?
+[00:35.3] RECEPTIONIST: I just need your first and last name.
+[00:38.5] PATIENT: Sure, my name is Olivia Parker.
+[00:45.0] RECEPTIONIST: Your patient profile has been created.
+[00:51.5] RECEPTIONIST: And your date of birth is July fourth two thousand for demo purposes. How may I help you today?
+[00:59.4] PATIENT: My actual date of birth is September 3, 1994. Can you check if you accept Blue Cross Blue Shield insurance?
+[01:10.1] RECEPTIONIST: Could you please provide your Blue Cross Blue Shield member ID number? This will help me check if your plan is accepted.
+[01:15.8] PATIENT: I don't have my card with me right now. Is there another way to verify if you accept BCBS?
+[01:34.8] RECEPTIONIST: Accept many Blue Cross Blue Shield plans. But coverage can depend on your specific plan and state. If you can provide your plan state or any details from your card later, I can check more precisely. Would you like to continue with a general check? Or wait until you have your card?
+[01:40.1] PATIENT: I understand. What's the next step if I want to verify my insurance details later?
+[01:50.9] RECEPTIONIST: When you have your insurance card, you can call back or text us a photo of your card quick verification. We'll guide you through the process when you're ready.
+[01:52.5] PATIENT: Got it, thank
+[01:53.0] RECEPTIONIST: Is there anything else I can help you
+[01:54.8] PATIENT: No, that's all
+[01:54.9] RECEPTIONIST: Alright.

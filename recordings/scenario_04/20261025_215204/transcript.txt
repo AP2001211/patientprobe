@@ -1,0 +1,10 @@
+[00:12.3] RECEPTIONIST: This call may be recorded for quality and training
+[00:18.2] RECEPTIONIST: Welcome to Pivot Point Orthopaedics.
+[00:23.6] RECEPTIONIST: Would you like to create a demo patient profile? I just need your first and last name to get started.
+[00:26.6] PATIENT: Yes, my name is Michael Turner.
+[00:42.9] RECEPTIONIST: Your patient profile has been created. And your date of birth is July fourth two thousand for demo purposes. How may I help you today?
+[00:51.8] PATIENT: Actually, my date of birth is May 18, 1981. I need a refill on a medication from a past visit. Can you help with that?
+[01:02.5] RECEPTIONIST: I don't see any medications on your chart that I can refill right now. If you'd like to speak with someone about this, just let me know.
+[01:06.8] PATIENT: I understand. Could you let me know what the next step would be to get a refill?
+[01:16.0] RECEPTIONIST: The best next step is to contact our clinic support team. They can review your chart and help with your medication refill request.
+[01:19.2] RECEPTIONIST: Would you like me to connect you to our patient support team now?

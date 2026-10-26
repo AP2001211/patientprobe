@@ -1,0 +1,23 @@
+{
+  "scenario_id": "05",
+  "name": "Insurance question",
+  "test_focus": "Insurance accuracy, unsupported coverage or cost claims",
+  "expected": "Says whether BCBS is accepted in general, and that the exact plan must be verified. Doesn't guarantee coverage or quote a copay.",
+  "overrides": {},
+  "turn_settings": {
+    "endpointing": {
+      "mode": "fixed",
+      "min_delay": 0.6,
+      "max_delay": 2.5
+    },
+    "interruption": {
+      "enabled": true
+    }
+  },
+  "dial_timeout_seconds": 30,
+  "max_call_seconds": 360,
+  "started_at": "2026-10-26T01:31:04.582754+00:00",
+  "answered_at_seconds": 7.1,
+  "reason": "patient_ended_call",
+  "ended_at": "2026-10-26T01:32:52.260736+00:00"
+}

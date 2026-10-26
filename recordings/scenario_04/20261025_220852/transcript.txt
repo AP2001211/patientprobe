@@ -1,0 +1,15 @@
+[00:15.0] RECEPTIONIST: This call may be recorded for quality and training purposes.
+[00:15.8] PATIENT: Okay.
+[00:20.1] RECEPTIONIST: How can I help you today?
+[00:24.0] PATIENT: Hi, I need a refill on my meloxicam prescription.
+[00:33.4] RECEPTIONIST: You like to create a demo patient profile so I can help with your prescription refill? I just need your first and last name.
+[00:37.2] PATIENT: Yes, that would be great. My name is Michael Turner.
+[00:48.3] RECEPTIONIST: Your patient profile is set up. And your date of birth is July fourth two thousand. How can I help you today?
+[00:53.5] PATIENT: There's a mistake with the date of birth. It's actually May 18, 1981.
+[01:19.3] RECEPTIONIST: I don't see any medications on your chart that I can refill right now. You'd like to speak with someone about this, just let me know.
+[01:23.1] PATIENT: Could you still send it to my pharmacy today, and how long would that take?
+[01:36.9] RECEPTIONIST: I'm not able to send a refill to your pharmacy since there are no Medicaid medications listed on your chart. If you'd like, I can connect you to our patient support team for more help. Would you like to speak with them?
+[01:40.5] PATIENT: Yes, please connect me to the patient support team.
+[01:46.7] RECEPTIONIST: Transferring you now. Thank you.
+[01:47.8] PATIENT: Thank you, goodbye.
+[01:49.2] RECEPTIONIST: Hello.

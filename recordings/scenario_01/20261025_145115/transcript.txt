@@ -1,0 +1,10 @@
+[00:17.7] RECEPTIONIST: Hello?
+[00:22.3] PATIENT: Hi there. I'm looking to schedule a new-patient orthopedic consultation.
+[00:29.8] RECEPTIONIST: Yes. What is your mobile number for this?
+[00:32.3] PATIENT: It's the number I'm calling from.
+[00:38.3] RECEPTIONIST: Got it. Could you confirm your name for me, please?
+[00:40.1] PATIENT: It's Sarah Mitchell.
+[00:44.3] RECEPTIONIST: Could you spell out your last name?
+[00:49.3] PATIENT: M, I, T, C, H, E, L, L.
+[00:55.9] RECEPTIONIST: Cool. When do you want your appointment to be set up?
+[01:00.8] PATIENT: I'm flexible, but preferably in the afternoon sometime next week.

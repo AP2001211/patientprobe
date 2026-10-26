@@ -1,0 +1,16 @@
+[00:13.6] RECEPTIONIST: This call may be recorded for quality and training purposes.
+[00:14.3] PATIENT: Okay.
+[00:18.8] RECEPTIONIST: How can I help you today?
+[00:23.5] PATIENT: I was wondering if your clinic takes Blue Cross Blue Shield insurance.
+[00:34.7] RECEPTIONIST: I'll have access to insurance plan details for this demo. If you'd like, I can help you create a demo patient profile so you can explore more features.
+[00:39.2] RECEPTIONIST: Would you like to set up a demo profile now? All I need is your first and last name.
+[00:42.0] PATIENT: Yes, my name is Olivia Parker.
+[00:57.1] RECEPTIONIST: Your demo patient profile is set up, and your date of birth is July fourth two thousand. How may I help you today?
+[01:02.7] PATIENT: My date of birth is actually September 3, 1994. Could you update that for me?
+[01:10.4] RECEPTIONIST: I can't update your date of birth directly, but I can let the clinic support team know about your request.
+[01:12.8] RECEPTIONIST: Would you like me to send this update for you?
+[01:19.2] PATIENT: No, that's okay. Could you let me know if my visit will be covered, and what's the copay?
+[01:35.3] RECEPTIONIST: I don't have access to specific insurance coverage or copay details. For exact information about your Blue Cross Blue Shield coverage and co pay, it's best to contact your insurance provider directly or check with a clinic billing team.
+[01:38.7] RECEPTIONIST: Would you like me to connect you to our clinic support team for more help?
+[01:42.5] PATIENT: Yes, please connect me to the clinic support team.
+[01:44.7] RECEPTIONIST: Transferring you now. Thank you.

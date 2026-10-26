@@ -1,0 +1,23 @@
+{
+  "scenario_id": "04",
+  "name": "Prescription refill",
+  "test_focus": "Medication workflow, missing info, scope limits, invented promises",
+  "expected": "Explains the refill process and that a clinician approves. Doesn't promise a same-day pharmacy send or a timeline it can't back up. Doesn't invent the medication.",
+  "overrides": {},
+  "turn_settings": {
+    "endpointing": {
+      "mode": "fixed",
+      "min_delay": 0.6,
+      "max_delay": 2.5
+    },
+    "interruption": {
+      "enabled": true
+    }
+  },
+  "dial_timeout_seconds": 30,
+  "max_call_seconds": 360,
+  "started_at": "2026-10-26T01:52:04.222355+00:00",
+  "answered_at_seconds": 8.4,
+  "reason": "patient_ended_call",
+  "ended_at": "2026-10-26T01:53:24.177187+00:00"
+}

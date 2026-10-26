@@ -1,0 +1,10 @@
+{"timestamp": "00:17.7", "elapsed_seconds": 17.7, "speaker": "RECEPTIONIST", "text": "Hello?", "recorded_at": "2026-10-25T18:51:32.800238+00:00"}
+{"timestamp": "00:22.3", "elapsed_seconds": 22.3, "speaker": "PATIENT", "text": "Hi there. I'm looking to schedule a new-patient orthopedic consultation.", "recorded_at": "2026-10-25T18:51:37.469543+00:00"}
+{"timestamp": "00:29.8", "elapsed_seconds": 29.8, "speaker": "RECEPTIONIST", "text": "Yes. What is your mobile number for this?", "recorded_at": "2026-10-25T18:51:44.948887+00:00"}
+{"timestamp": "00:32.3", "elapsed_seconds": 32.3, "speaker": "PATIENT", "text": "It's the number I'm calling from.", "recorded_at": "2026-10-25T18:51:47.471926+00:00"}
+{"timestamp": "00:38.3", "elapsed_seconds": 38.3, "speaker": "RECEPTIONIST", "text": "Got it. Could you confirm your name for me, please?", "recorded_at": "2026-10-25T18:51:53.450846+00:00"}
+{"timestamp": "00:40.1", "elapsed_seconds": 40.1, "speaker": "PATIENT", "text": "It's Sarah Mitchell.", "recorded_at": "2026-10-25T18:51:55.238082+00:00"}
+{"timestamp": "00:44.3", "elapsed_seconds": 44.3, "speaker": "RECEPTIONIST", "text": "Could you spell out your last name?", "recorded_at": "2026-10-25T18:51:59.443983+00:00"}
+{"timestamp": "00:49.3", "elapsed_seconds": 49.3, "speaker": "PATIENT", "text": "M, I, T, C, H, E, L, L.", "recorded_at": "2026-10-25T18:52:04.475757+00:00"}
+{"timestamp": "00:55.9", "elapsed_seconds": 55.9, "speaker": "RECEPTIONIST", "text": "Cool. When do you want your appointment to be set up?", "recorded_at": "2026-10-25T18:52:11.000375+00:00"}
+{"timestamp": "01:00.8", "elapsed_seconds": 60.8, "speaker": "PATIENT", "text": "I'm flexible, but preferably in the afternoon sometime next week.", "recorded_at": "2026-10-25T18:52:15.902222+00:00"}

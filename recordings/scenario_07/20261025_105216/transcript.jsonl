@@ -1,0 +1,22 @@
+{"timestamp": "00:07", "elapsed_seconds": 7, "speaker": "RECEPTIONIST", "text": "Good afternoon. Thank you for calling the clinic. How can I help you today?", "recorded_at": "2026-10-25T14:52:24.328474+00:00"}
+{"timestamp": "00:12", "elapsed_seconds": 12, "speaker": "PATIENT", "text": "Good afternoon! I’d like to schedule an appointment for next Friday, if possible.", "recorded_at": "2026-10-25T14:52:29.431070+00:00"}
+{"timestamp": "00:17", "elapsed_seconds": 17, "speaker": "RECEPTIONIST", "text": "Of course. Which Friday were you thinking of?", "recorded_at": "2026-10-25T14:52:33.843686+00:00"}
+{"timestamp": "00:22", "elapsed_seconds": 22, "speaker": "PATIENT", "text": "Oh, I meant the Friday of the following week. Sorry for the confusion!", "recorded_at": "2026-10-25T14:52:38.681329+00:00"}
+{"timestamp": "00:29", "elapsed_seconds": 29, "speaker": "RECEPTIONIST", "text": "Okay. I have an opening at two thirty PM that Friday. Would that work?", "recorded_at": "2026-10-25T14:52:45.555389+00:00"}
+{"timestamp": "00:31", "elapsed_seconds": 31, "speaker": "PATIENT", "text": "Two thirty PM works for me. Thank you!", "recorded_at": "2026-10-25T14:52:48.178330+00:00"}
+{"timestamp": "00:37", "elapsed_seconds": 37, "speaker": "RECEPTIONIST", "text": "Just to confirm, you wanted the Friday coming up? Correct?", "recorded_at": "2026-10-25T14:52:54.148929+00:00"}
+{"timestamp": "00:43", "elapsed_seconds": 43, "speaker": "PATIENT", "text": "Actually, I meant the Friday after that, not the one coming up. I apologize for the mix-up! ", "recorded_at": "2026-10-25T14:53:00.078396+00:00"}
+{"timestamp": "00:49", "elapsed_seconds": 49, "speaker": "RECEPTIONIST", "text": "Sorry about that. Yes. The Friday after that. I get your full name?", "recorded_at": "2026-10-25T14:53:06.120314+00:00"}
+{"timestamp": "00:51", "elapsed_seconds": 51, "speaker": "PATIENT", "text": "It's Rachel Adams.", "recorded_at": "2026-10-25T14:53:07.574657+00:00"}
+{"timestamp": "00:55", "elapsed_seconds": 55, "speaker": "RECEPTIONIST", "text": "Okay. Could you spell out your last name for me?", "recorded_at": "2026-10-25T14:53:12.053396+00:00"}
+{"timestamp": "00:57", "elapsed_seconds": 57, "speaker": "PATIENT", "text": "Sure, it’s A-D-A-M-S.", "recorded_at": "2026-10-25T14:53:14.077694+00:00"}
+{"timestamp": "01:05", "elapsed_seconds": 65, "speaker": "RECEPTIONIST", "text": "I'm sorry. Could you repeat... Could you repeat your last name?", "recorded_at": "2026-10-25T14:53:21.956384+00:00"}
+{"timestamp": "01:08", "elapsed_seconds": 68, "speaker": "PATIENT", "text": "Of course! It’s Adams, spelled A-D-A-M-S.", "recorded_at": "2026-10-25T14:53:25.478626+00:00"}
+{"timestamp": "01:17", "elapsed_seconds": 77, "speaker": "RECEPTIONIST", "text": "Okay. Could you do that one more time, please? I'm having some trouble understanding you.", "recorded_at": "2026-10-25T14:53:34.258724+00:00"}
+{"timestamp": "01:21", "elapsed_seconds": 81, "speaker": "PATIENT", "text": "No problem at all! It's Adams, A-D-A-M-S.", "recorded_at": "2026-10-25T14:53:37.678330+00:00"}
+{"timestamp": "01:30", "elapsed_seconds": 90, "speaker": "RECEPTIONIST", "text": "Alright, Rachel. Your appointment is confirmed for Friday at two thirty PM.", "recorded_at": "2026-10-25T14:53:47.427662+00:00"}
+{"timestamp": "01:33", "elapsed_seconds": 93, "speaker": "PATIENT", "text": "Thank you so much! I appreciate your help.", "recorded_at": "2026-10-25T14:53:50.277523+00:00"}
+{"timestamp": "01:38", "elapsed_seconds": 98, "speaker": "RECEPTIONIST", "text": "Is there anything else I can help you with today?", "recorded_at": "2026-10-25T14:53:54.552795+00:00"}
+{"timestamp": "01:41", "elapsed_seconds": 101, "speaker": "PATIENT", "text": "No, that’s everything for now. Thank you again!", "recorded_at": "2026-10-25T14:53:57.878564+00:00"}
+{"timestamp": "01:44", "elapsed_seconds": 104, "speaker": "RECEPTIONIST", "text": "Thank you. Bye bye.", "recorded_at": "2026-10-25T14:54:01.033116+00:00"}
+{"timestamp": "01:45", "elapsed_seconds": 105, "speaker": "PATIENT", "text": "Goodbye!", "recorded_at": "2026-10-25T14:54:01.975888+00:00"}

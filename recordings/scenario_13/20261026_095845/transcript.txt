@@ -1,0 +1,21 @@
+[00:11.1] RECEPTIONIST: This call may be recorded for quality and training purposes.
+[00:22.6] RECEPTIONIST: Thank you for calling Pivot Point Orthopedics. Would you like to create a demo patient profile? I just need your first and last thing to get started.
+[00:24.1] PATIENT: Hello?
+[00:33.2] RECEPTIONIST: Hi there. Would you like to create a demo patient profile today? I just need your first and last name to set it up.
+[00:36.6] PATIENT: Yes, please. My name is Walter Hughes.
+[00:50.0] RECEPTIONIST: Your demo patient profile is set up. And your date of birth is July fourth two thousand for demo purposes. How may I help you today?
+[00:58.5] PATIENT: I'd like to book a follow-up appointment for my shoulder. Also, my date of birth is actually February 28, 1958.
+[01:10.8] RECEPTIONIST: You'd like to book a follow-up appointment for your shoulder? Just to confirm, is this visit to check on your recovery or treatment after a previous appointment?
+[01:16.9] PATIENT: Yes, that's right. It's to check on my recovery after a previous appointment.
+[01:26.1] RECEPTIONIST: Thanks for confirming. Do you have a specific provider you'd like to see, or are you open to the next available provider?
+[01:29.2] PATIENT: I'm open to the next available provider.
+[01:49.7] RECEPTIONIST: You already have a follow-up appointment booked with doctor Doody Hauser on Monday, October twenty sixth at eleven AM at Pivot Point Orthopedics. Would you like to keep this appointment? Reschedule it, or cancel it?
+[01:56.2] PATIENT: I'll keep the appointment. Thank you. Am I talking to a real person or an automated system?
+[02:13.1] RECEPTIONIST: You're speaking with a voice assistant for Pivot Point Orthopaedics. I can help with appointments, medication refills, insurance updates, and general clinic questions. If you ever need to speak with a real person, just let me know.
+[02:17.4] PATIENT: Could I speak to a real person, please?
+[02:33.8] RECEPTIONIST: I can connect you to our patient support team. I can also help with booking, rescheduling, or canceling appointments medication refills, insurance updates, and general clinic questions. Would you like to give me a try?
+[02:39.6] PATIENT: No thanks, I'd really like to speak to a real person. Could you connect me, please?
+[02:45.0] RECEPTIONIST: Transferring you now. Thank you.
+[02:46.5] PATIENT: Hello?
+[02:50.5] RECEPTIONIST: Hello. You've reached the Pretty Good AI test line. Goodbye.
+[02:52.6] PATIENT: Hello?

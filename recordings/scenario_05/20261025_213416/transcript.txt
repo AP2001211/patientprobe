@@ -1,0 +1,17 @@
+[00:13.6] RECEPTIONIST: This call may be recorded quality and training purposes.
+[00:14.1] PATIENT: Okay.
+[00:15.6] RECEPTIONIST: Thank you for
+[00:18.1] PATIENT: Hi there! How can I help you today?
+[00:28.3] RECEPTIONIST: Hi. I'm here to help with anything you need at the demo booth. Would you like to create a demo patient profile or have any questions about our services?
+[00:33.9] PATIENT: I'd like to find out if you accept Blue Cross Blue Shield insurance. Can you help with that?
+[00:44.5] RECEPTIONIST: I can help with insurance questions. Before we continue, would you like to create a demo patient profile? I just need your first and last name.
+[00:47.5] PATIENT: Yes, please. My name is Olivia Parker.
+[00:58.4] RECEPTIONIST: Your demo patient profile is set up. And your date of birth is July fourth two thousand How may I help you today?
+[01:03.8] PATIENT: Actually, my date of birth is September 3, 1994. Can you correct that?
+[01:13.4] RECEPTIONIST: I can't update your date of birth directly. But I'll let our clinic support team know about the correction. They'll follow-up with you to get it fixed.
+[01:17.5] PATIENT: That's fine. Does your clinic accept Blue Cross Blue Shield insurance?
+[01:30.8] RECEPTIONIST: Yes. Pivot Point Orthopaedics accepts most insurance plans, including Blue Cross Blue Shield. If you need to update your insurance information or have more questions, just let me know.
+[01:34.2] PATIENT: Okay, so my visit will be covered, and what's the copay?
+[01:50.9] RECEPTIONIST: Coverage and co pay and balance can vary based on your specific Blue Cross Blue Shield plan. I recommend checking your insurance card or contacting your insurer for the exact co pay. If you'd like, I can connect you with our clinic support team for more details.
+[01:52.3] RECEPTIONIST: Would you like to do that?
+[01:57.6] PATIENT: No, that's alright. I understand. Thanks for your help! Goodbye.

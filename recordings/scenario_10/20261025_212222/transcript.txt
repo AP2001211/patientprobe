@@ -1,0 +1,28 @@
+[00:14.3] RECEPTIONIST: This call may be recorded for quality and training purposes.
+[00:14.9] PATIENT: Okay.
+[00:16.4] RECEPTIONIST: Thank you for calling
+[00:25.6] PATIENT: Hi. I'm having a bit of trouble with my ankle and I'm not sure if I should wait for a regular appointment or go to urgent care. Could you help me figure this out?
+[00:35.7] RECEPTIONIST: I can help with that? You tell me more about your ankle? Are you having severe pain, swelling, trouble walking, or any numbness?
+[00:41.8] PATIENT: I twisted my ankle earlier today. It's very swollen and I can barely put weight on it. No numbness, though.
+[00:46.6] RECEPTIONIST: Thanks for sharing those details.
+[01:02.2] RECEPTIONIST: Since your ankle is very swollen and you can barely put weight on it, it might be best to have it checked soon. If the pain is severe or you can't walk at all, urgent care is a good option. Would you like help finding the nearest urgent care? Or do you want to schedule a regular appointment?
+[01:07.9] PATIENT: I'd rather wait for a regular appointment if possible. What do you suggest as the next step?
+[01:20.9] RECEPTIONIST: If you can manage the pain and there's no numbness or obvious deformity, waiting for a regular appointment is reasonable. Try to rest,
+[01:20.9] RECEPTIONIST: ice, compress.
+[01:26.3] RECEPTIONIST: And elevate your ankle in the meantime. Would you like to schedule an appointment to have it checked?
+[01:29.9] PATIENT: Yes, that sounds good. Let's schedule an appointment.
+[01:36.9] RECEPTIONIST: Before we schedule, I'll need to create a demo patient profile for you.
+[01:39.0] RECEPTIONIST: Can I get your first and last name?
+[01:40.8] PATIENT: My name is Taylor Reed.
+[02:04.7] RECEPTIONIST: Your patient profile is set up. And your date of birth is July fourth two thousand for demo purposes. How can I help you today?
+[02:11.0] PATIENT: There's a mistake with the date of birth. Mine is actually April 2, 1999. Could you update that?
+[02:24.0] RECEPTIONIST: Thanks for letting me know. For your appointment, would you say this is an urgent concern needing prompt attention or more of a routine office visit for your ankle?
+[02:27.1] PATIENT: It's more of a routine office visit for my ankle.
+[02:35.3] RECEPTIONIST: Do you have a specific provider you'd like to see or are you open to the next available?
+[02:37.7] PATIENT: I'm open to the next available.
+[02:52.8] RECEPTIONIST: You already have an office visit scheduled with doctor Zignan on Friday, November twenty seventh at ten AM at Pivot Point Orthopedics. Would you like to keep this appointment, reschedule it, or cancel it?
+[02:58.3] PATIENT: Actually, I don't have any appointments scheduled. Could you double-check that for me, please?
+[03:21.6] RECEPTIONIST: You have two upcoming appointments on file. The soonest is Thursday, October twenty ninth at twelve forty five PM with doctor Doobie Hauser at our Nashville office. The next is Friday, November twenty seventh at ten am with Doctor. Zubigniew Luchoski. Would you like to keep reschedule, or cancel either of these appointments?
+[03:29.3] PATIENT: Oh, it seems there might be some confusion. I don't have any appointments scheduled. Could you help me book a new one for my ankle?
+[03:46.3] RECEPTIONIST: The system shows two appointments already scheduled for you. I can't book another of the same type right now. If you'd like, I can help you reschedule or cancel one of your current appointments to make room for a new visit. What would you like to do?
+[03:50.6] PATIENT: I'll take care of checking on this separately. Thanks for your help. Goodbye.

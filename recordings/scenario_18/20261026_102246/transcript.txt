@@ -1,0 +1,25 @@
+[00:11.4] RECEPTIONIST: This call may be recorded for quality and training purposes.
+[00:22.9] RECEPTIONIST: Thank you for calling Pivot Point Orthopedics. Would you like to create a demo patient profile? I just need your first and last name to get started.
+[00:25.7] PATIENT: Yes, please. My name is Priya Raman.
+[00:39.7] RECEPTIONIST: Your patient profile has been created, and your date of birth is set as July fourth two thousand for demo purposes. How may I help you today?
+[00:46.2] PATIENT: My birth date is actually April 21, 1986. Could you update that, please?
+[00:59.0] RECEPTIONIST: I'm not able to update your date of birth directly. If you need to correct this information, I can let our clinic support team know so they can update it for you. Would you like me to do that?
+[01:05.6] PATIENT: Yes, please. I'd appreciate that. Could you also tell me the clinic's hours on Tuesdays and Wednesdays?
+[01:13.3] RECEPTIONIST: Let me finish submitting your date of birth update request, then I'll get the clinic's hours for you.
+[01:27.5] RECEPTIONIST: One moment. To update your date of birth to April twenty first nineteen eighty six has been sent to the clinic staff. They will review and update your records. Now I'll check the clinic's hours for Tuesdays and Wednesdays.
+[01:30.2] PATIENT: Okay, thank you.
+[01:42.0] RECEPTIONIST: I've let our clinic support team on Tuesdays, the clinic is open from nine AM to four PM. On Wednesdays, it's open from twelve PM to seven PM. Is there anything else I can help you with?
+[01:51.8] PATIENT: Yes, could you tell me the latest available appointment on Tuesday, October 27, and the earliest on Wednesday, October 28?
+[02:06.9] RECEPTIONIST: Before I check the schedule, could you tell me what kind of visit you need? For example, is this for a routine checkup? A a new patient consultation, a procedure, or something else.
+[02:10.1] PATIENT: It's for a general orthopedic consultation.
+[02:31.8] RECEPTIONIST: You already have a general orthopedic consultation booked for Friday, November twenty seventh at ten AM with doctor Zbignew Lukoski at Pivot Point Orthopaedics. Since you can't have two of the same types scheduled, would you like to reschedule the appointment or discuss something else?
+[02:40.1] PATIENT: Actually, I haven't booked any appointments yet. I'm just gathering information for now. Could you tell me about the availability again, please?
+[02:56.9] RECEPTIONIST: No problem. To check availability, I just need to confirm the visit type. Is this for a routine office visit? A follow-up, a new patient consultation, a procedure, or something else.
+[02:59.9] PATIENT: It's a new patient consultation.
+[03:25.3] RECEPTIONIST: It looks like there's already a new patient consultation booked for you on Thursday, October twenty ninth at twelve forty five PM with doctor Dugi Hauser at Pivot Point Orthopedics If you need to change this appointment or have other questions, just let me know.
+[03:37.1] PATIENT: It seems there might be some confusion. I haven't made any bookings yet. Could you still check the latest available on Tuesday, October 27, and the earliest on Wednesday, October 28?
+[03:56.4] RECEPTIONIST: It looks like the system is showing a new patient consultation already booked for you. Which is preventing me from checking other available time. If you haven't made this booking, I can let our clinic team know about the confusion so they can review your records and help you directly. Would you like me to do that?
+[04:01.1] PATIENT: Yes, please. That would be helpful. What should I do next?
+[04:17.2] RECEPTIONIST: I've let our clinic support team know about the appointment confusion, They'll review your records and get back to you as soon as they can. Is there anything else I can help you with right now?
+[04:20.6] PATIENT: No, that's all for now. Goodbye.
+[04:27.4] RECEPTIONIST: Take care. If you need anything else, just give us a call. Goodbye.

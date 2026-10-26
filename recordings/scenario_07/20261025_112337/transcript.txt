@@ -1,0 +1,17 @@
+[00:07] RECEPTIONIST: Good afternoon. Thank you for calling to your clinic. How can I help you today?
+[00:15] PATIENT: Good afternoon! I'd like to schedule an appointment for next Friday,
+[00:16] RECEPTIONIST: Of course. Which Friday were you thinking of?
+[00:19] PATIENT: I meant Friday, November 6th.
+[00:26] RECEPTIONIST: I have an opening at two thirty PM that Friday. Would that work?
+[00:27] PATIENT: Two thirty works for me!
+[00:33] RECEPTIONIST: Just to confirm, you wanted the Friday coming up. Right?
+[00:38] PATIENT: Actually, I meant November 6th. Is that still the appointment you're confirming?
+[00:47] RECEPTIONIST: Sorry about that. Yes. The Friday after that. Got it. Could I get a could I get your full name?
+[00:49] PATIENT: Sure! It's Rachel Adams.
+[00:53] RECEPTIONIST: Could you please spell it out for me?
+[00:59] PATIENT: Of course! It's R-A-C-H-E-L A-D-A-M-S.
+[01:05] RECEPTIONIST: Perfect. Alright, Rachel. Your appointment is confirmed for Friday at two thirty PM.
+[01:09] PATIENT: Thank you! I appreciate it. Is there anything else
+[01:09] RECEPTIONIST: It's
+[01:12] RECEPTIONIST: is there anything else I can help you with today?
+[01:16] PATIENT: No, that's all for now. Thank you for your help!

@@ -1,0 +1,23 @@
+{
+  "scenario_id": "09",
+  "name": "Hours, location, and a redirect",
+  "test_focus": "Hours accuracy, interruption recovery, hallucinated address or hours",
+  "expected": "Gives Friday hours plainly after the redirect. Gives an address or says it can't. Doesn't fabricate hours, street, or parking details.",
+  "overrides": {},
+  "turn_settings": {
+    "endpointing": {
+      "mode": "fixed",
+      "min_delay": 0.6,
+      "max_delay": 2.5
+    },
+    "interruption": {
+      "enabled": true
+    }
+  },
+  "dial_timeout_seconds": 30,
+  "max_call_seconds": 240,
+  "started_at": "2026-10-25T20:38:54.261539+00:00",
+  "answered_at_seconds": 7.9,
+  "reason": "receptionist_hung_up",
+  "ended_at": "2026-10-25T20:41:12.210574+00:00"
+}

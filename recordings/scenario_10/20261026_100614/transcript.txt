@@ -1,0 +1,16 @@
+[00:11.2] RECEPTIONIST: This call may be recorded for quality and training purposes.
+[00:23.4] RECEPTIONIST: Thank you for calling Pivot Point Orthopaedics. Would you like to create a demo patient profile? I just need your first and last name to get started.
+[00:25.8] PATIENT: Yes, my name is Taylor Reed.
+[00:39.6] RECEPTIONIST: Your patient profile has been created. And your date of birth is July fourth two thousand for demo purposes. How may I help you today?
+[00:57.8] PATIENT: Actually, my date of birth is April 2, 1999. I twisted my ankle earlier today. It's very swollen, and I can barely put weight on it. Should I wait for a regular visit or get urgent care? I'd rather wait for a regular appointment if it's okay.
+[01:13.0] RECEPTIONIST: I'm not able to give medical advice, but I can help you schedule an appointment with one of our orthopedic providers to have your ankle checked. Would you like to book the next available visit? Or do you have a specific provider or time in mind?
+[01:17.6] PATIENT: I understand. Let’s go with the next available appointment, then.
+[01:32.6] RECEPTIONIST: To get you scheduled, I need to know what kind of visit you'd like. Since your ankle is swollen and painful, would you prefer an urgent visit for prompt attention? Or a general office visit for routine care?
+[01:37.1] PATIENT: An urgent visit sounds like the best option. Let's go with that.
+[01:53.4] RECEPTIONIST: The soonest available visit is tomorrow, Tuesday, October twenty seventh. Would you like the eight AM slot with doctor Zigniew Likoski?
+[01:58.8] PATIENT: Yes, that works for me. Tomorrow at 8 AM with Dr. Zigniew Likoski.
+[02:21.1] RECEPTIONIST: Your urgent visit is set for tomorrow. Tuesday, October twenty seventh, at eight AM doctor Zivmiew Lukowski at Pivot Point Orthopaedics. Please bring your photo ID insurance card, and a list of your current medications. Would you like me to send you a text message with these appointment details,
+[02:25.8] PATIENT: Yes, please send the text message with the appointment details.
+[02:34.9] RECEPTIONIST: I've sent the appointment details to your phone ending in seven five three six.
+[02:37.4] RECEPTIONIST: Is there anything else I can help you with today?
+[02:41.1] PATIENT: No, that's all. Thank you. Goodbye.

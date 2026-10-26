@@ -1,0 +1,13 @@
+[00:56] RECEPTIONIST: This call may be recorded for quality and training purposes.
+[01:02] RECEPTIONIST: Thanks for calling Pivot Point Orthopedics. Part of Pretty Good AI. How may I help you today?
+[01:06] PATIENT: Hi! I’d like to schedule a routine annual checkup for next week, please.
+[01:14] RECEPTIONIST: I see you're calling from the number we have on file. Am I speaking with Apoorva?
+[01:19] PATIENT: Actually, my name is Sarah Mitchell. I think there might be a mix-up.
+[01:26] RECEPTIONIST: Please provide your full name and date of birth.
+[01:32] PATIENT: Sure! My full name is Sarah Mitchell, and my date of birth is [birthdate not provided].
+[01:38] RECEPTIONIST: Could you please provide your date of birth as well? This helps me find your record.
+[01:44] PATIENT: I'm sorry, but I don't have that information available right now. Is there anything else you need to schedule my checkup?
+[02:01] RECEPTIONIST: I wasn't able to verify your record without your date of birth. So I can't schedule your checkup right now. If you'd like, can connect you to our patient support team for further help. Would you like to speak with them, or is there anything else I can help with?
+[02:07] PATIENT: Yes, please connect me to the patient support team. I'd appreciate
+[02:08] RECEPTIONIST: I'm sorry. Thank you.
+[02:10] PATIENT: No problem, thank you for

@@ -1,0 +1,35 @@
+[00:14.4] RECEPTIONIST: This call may be recorded for quality and training purposes.
+[00:15.0] PATIENT: Okay.
+[00:16.5] RECEPTIONIST: Welcome to pip
+[00:21.1] PATIENT: Hi there. I need some help finding out my husband's orthopedic appointment details.
+[00:30.0] RECEPTIONIST: I can help with that? May I have your husband's first and last name?
+[00:32.2] PATIENT: Sure, it's Daniel Brooks.
+[00:39.5] RECEPTIONIST: Thanks. Would you like to create a demo patient profile for Daniel Brooks?
+[00:45.1] RECEPTIONIST: This will help me look up his appointment details. I just need his first and last name to get started.
+[00:48.7] PATIENT: I just want to know about his appointment. It's Daniel Brooks.
+[00:59.7] RECEPTIONIST: To look up appointment details, I need to create a demo patient profile for Daniel Brooks first. Would you like me to do that now? It only takes a moment
+[01:05.4] PATIENT: I think I just need the appointment details. I’m his wife; I just need the time.
+[01:15.3] RECEPTIONIST: To access appointment details, I need to create a demo patient profile for Daniel Brooks.
+[01:19.9] RECEPTIONIST: Would you like me to set that up now? It only requires his first and last name
+[01:24.2] PATIENT: I really just need to know the date and time of his appointment. Can you help with that?
+[01:37.8] RECEPTIONIST: To look up Daniel Brooks' appointment, I need to create a demo patient profile for him first. Would you like me to do that now? It's quick and only needs his first and last name.
+[01:42.7] PATIENT: I understand. But I just need the appointment time. Can you tell me that?
+[01:51.0] RECEPTIONIST: I'm not able to access appointment details without creating a demo patient profile for Daniel Brooks first.
+[01:52.8] PATIENT: I get
+[01:53.2] RECEPTIONIST: Would you like me to create that profile
+[01:55.4] PATIENT: I understand that's
+[01:55.8] RECEPTIONIST: you like me to go
+[02:01.3] PATIENT: I understand that's necessary, but I just need the appointment time. What should I do next?
+[02:11.6] RECEPTIONIST: If you'd like, I can create a demo patient profile for Daniel Brooks right now. That will let me look up his appointment time for you.
+[02:13.4] RECEPTIONIST: Would you like to go ahead with that?
+[02:17.2] PATIENT: Sure, go ahead and create the profile.
+[02:30.6] RECEPTIONIST: Daniel Brooks' patient profile has been created. With a date of birth of July fourth two thousand for demo purposes. How may I help you today?
+[02:33.9] PATIENT: I just need to know the date and time of his upcoming appointment.
+[02:55.2] RECEPTIONIST: Something went wrong while trying to find Dana's appointment details.
+[02:56.5] RECEPTIONIST: Can we try again?
+[03:05.7] RECEPTIONIST: Daniel Brooks has an appointment on Thursday, October twenty ninth at twelve forty five PM. Would you like details about any other upcoming appointments?
+[03:12.9] PATIENT: No, just that one. So, that's Thursday, October twenty ninth at twelve forty five PM for Daniel?
+[03:21.8] RECEPTIONIST: That's right. Thursday, October twenty ninth. At twelve forty five PM for Daniel Brooks.
+[03:23.8] RECEPTIONIST: Let me know if you need anything else.
+[03:26.8] PATIENT: I’m good, thanks! Goodbye!
+[03:32.7] RECEPTIONIST: You're all set. Have a great day. Goodbye.

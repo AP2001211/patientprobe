@@ -1,0 +1,23 @@
+{
+  "scenario_id": "17",
+  "name": "Thanksgiving, then Sunday",
+  "test_focus": "Holiday closures, closed days, booking without checking the calendar, read-back accuracy",
+  "expected": "Recognizes Thanksgiving Day as closed, or checks hours, before offering anything. If Sunday comes up, says clearly whether it's available and offers real alternatives if closed. Doesn't book either day blindly. Any booking is read back with the correct day, date, and time.",
+  "overrides": {},
+  "turn_settings": {
+    "endpointing": {
+      "mode": "fixed",
+      "min_delay": 0.6,
+      "max_delay": 2.5
+    },
+    "interruption": {
+      "enabled": true
+    }
+  },
+  "dial_timeout_seconds": 30,
+  "max_call_seconds": 360,
+  "started_at": "2026-10-25T22:57:59.216180+00:00",
+  "answered_at_seconds": 7.7,
+  "reason": "receptionist_hung_up",
+  "ended_at": "2026-10-25T23:03:50.259142+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "scenario_id": "08",
+  "name": "Changing your mind mid-call",
+  "test_focus": "Correction handling, context retention, stale-slot leakage",
+  "expected": "Acknowledges the switch to Wednesday and confirms Wednesday at the end, with no Tuesday leaking back in.",
+  "overrides": {},
+  "turn_settings": {
+    "endpointing": {
+      "mode": "fixed",
+      "min_delay": 0.6,
+      "max_delay": 2.5
+    },
+    "interruption": {
+      "enabled": true
+    }
+  },
+  "dial_timeout_seconds": 30,
+  "max_call_seconds": 240,
+  "started_at": "2026-10-25T20:51:09.969893+00:00",
+  "answered_at_seconds": 7.7,
+  "reason": "patient_ended_call",
+  "ended_at": "2026-10-25T20:54:23.577637+00:00"
+}

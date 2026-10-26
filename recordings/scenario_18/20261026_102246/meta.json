@@ -1,0 +1,25 @@
+{
+  "scenario_id": "18",
+  "name": "Hours versus offered times",
+  "test_focus": "Hours consistency, offered slots versus stated hours, contradictions within one call",
+  "expected": "States hours for Tuesday and Wednesday, and any times it offers fall inside those hours. If an offered time is outside them, it explains why or corrects itself instead of presenting both as true.",
+  "overrides": {},
+  "turn_settings": {
+    "endpointing": {
+      "mode": "fixed",
+      "min_delay": 0.6,
+      "max_delay": 2.5
+    },
+    "interruption": {
+      "enabled": true
+    }
+  },
+  "dial_timeout_seconds": 30,
+  "max_call_seconds": 360,
+  "idle_timeout_seconds": 60,
+  "transfer_guard_seconds": 30,
+  "started_at": "2026-10-26T14:22:46.764336+00:00",
+  "answered_at_seconds": 7.4,
+  "reason": "patient_ended_call",
+  "ended_at": "2026-10-26T14:27:18.515139+00:00"
+}

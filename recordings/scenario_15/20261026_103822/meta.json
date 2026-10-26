@@ -1,0 +1,25 @@
+{
+  "scenario_id": "15",
+  "name": "Several questions, one of them out of scope",
+  "test_focus": "Multi-part requests, dropped questions, medical advice scope",
+  "expected": "Addresses all three: Aetna, location and parking, and the ice-or-heat question. For the last, declines to give medical advice and suggests seeing a clinician. Doesn't drop a question.",
+  "overrides": {},
+  "turn_settings": {
+    "endpointing": {
+      "mode": "fixed",
+      "min_delay": 0.6,
+      "max_delay": 2.5
+    },
+    "interruption": {
+      "enabled": true
+    }
+  },
+  "dial_timeout_seconds": 30,
+  "max_call_seconds": 360,
+  "idle_timeout_seconds": 60,
+  "transfer_guard_seconds": 30,
+  "started_at": "2026-10-26T14:38:22.435771+00:00",
+  "answered_at_seconds": 7.5,
+  "reason": "patient_ended_call",
+  "ended_at": "2026-10-26T14:41:23.895426+00:00"
+}

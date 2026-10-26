@@ -1,0 +1,42 @@
+[00:11.7] RECEPTIONIST: This call may be recorded for quality and training purposes.
+[00:23.9] RECEPTIONIST: Thank you for calling Pivot Point Orthopaedics. Would you like to create a demo patient profile? Just need your first and last name to get started.
+[00:28.1] PATIENT: I'm actually looking to schedule an appointment. My name's Daniel Brooks.
+[00:40.1] RECEPTIONIST: Your patient profile is set up. And your date of birth is July fourth two thousand for demo purposes. How can I help you today?
+[00:48.0] PATIENT: My real date of birth is July 22, 1988. I'd like to book an appointment, if possible.
+[00:54.3] RECEPTIONIST: Let me check the schedule for available appointments.
+[00:55.6] PATIENT: Sure, thanks.
+[00:56.3] RECEPTIONIST: One moment.
+[00:58.0] PATIENT: Okay.
+[01:08.9] RECEPTIONIST: Do you have a do you have a preferred day or time of day for your appointment? For example, morning, afternoon, or a specific day of the week.
+[01:13.2] PATIENT: I’m hoping for a morning appointment on November 26.
+[01:23.9] RECEPTIONIST: Let me check for available morning appointments on November twenty sixth. Let me check for available morning appointments on November twenty sixth.
+[01:24.9] PATIENT: Okay.
+[01:33.1] RECEPTIONIST: One moment while I look for morning openings on November twenty six.
+[01:34.8] PATIENT: Sure, take your time.
+[01:46.4] RECEPTIONIST: Something's not right. I wasn't able to check the schedule just now. Would you like me to have our clinic support team follow-up with you to book your appointment?
+[01:53.4] PATIENT: Oh, I see. Can you try checking availability for Sunday, November 1 around 10 AM instead?
+[02:01.5] RECEPTIONIST: I'll check for openings on Sunday. November first around ten AM. One moment.
+[02:02.2] PATIENT: Okay.
+[02:15.4] RECEPTIONIST: Actually, Pivot Point Orthopaedics is open Monday through Friday, so there are no appointments available on Sundays. Would you like to look for a morning slot on Monday, November second instead?
+[02:20.6] PATIENT: Oh, okay. Can you check for a morning slot on November 2 then?
+[02:32.8] RECEPTIONIST: Before I check the schedule, can you tell me the reason for your visit? For example, is this for a routine checkup, a a new patient consultation, or something else?
+[02:35.7] PATIENT: I’m just looking for a new patient consultation.
+[02:50.8] RECEPTIONIST: You already have a new patient consultation booked with doctor Judy Hauser on Thursday, October twenty ninth at twelve forty five PM at Pivot Point Orthopedics.
+[02:55.2] RECEPTIONIST: Would you like to keep this appointment? Reschedule it, or cancel it?
+[03:00.7] PATIENT: I don’t have an appointment on October 29. My name is Daniel Brooks.
+[03:12.8] RECEPTIONIST: I see there may be a mix up with your appointment details. Would you like me to have our clinic support team review this and follow-up with you to make sure you're appointment is correct?
+[03:19.4] PATIENT: I’d rather just focus on scheduling a new appointment. Can you check for morning availability on November 2?
+[03:35.5] RECEPTIONIST: I'm unable to book another new patient consultation since there's already one scheduled in the system. If you believe this is a mistake, I can have our clinic support team review your records and help you schedule the right appointment. Would you like me to do that?
+[03:42.7] PATIENT: I understand. Can you just confirm the appointment on October 29 or offer me the nearest alternative if it's not correct?
+[04:14.5] RECEPTIONIST: You have an appointment scheduled for Thursday, October twenty ninth at twelve forty five PM with doctor Dugie Hauser at Pivot Point Orthopedics. You also have another appointment on Friday, November twenty seventh at ten AM. With doctor Zebigniew Lakoski Would you like to confirm, reschedule, or cancel either of these appointments? Or do you need something else?
+[04:23.4] PATIENT: I’m not sure about that second appointment either. I didn’t schedule those. Can you just help me book a new patient consultation for November 2 in the morning?
+[04:42.2] RECEPTIONIST: I'm unable to book another new patient consultation since the system shows you already have one scheduled. If you believe these appointments are not correct, I can have our clinic support team review your records and help you get the right appointment. Would you like me to have them follow-up with you?
+[04:50.4] PATIENT: I see, but I just want to book a new consultation myself. Could you check if there’s any chance for a quick early slot on November 2?
+[05:09.5] RECEPTIONIST: I understand your request. But I can't book another new patient consultation while one is already scheduled in the system. The best next step is to have our clinic support team review your records and help you schedule the right appointment. Would you like me to ask them to contact you as soon as possible?
+[05:15.7] PATIENT: Alright, if that's the only way to resolve this, then yes, please have them follow up with me.
+[05:30.5] RECEPTIONIST: I've let our clinic support team know about your appointment scheduling issue. They will review your records and follow-up with you as soon as possible to help you book the right appointment.
+[05:32.8] RECEPTIONIST: Is there anything else I can help you with today?
+[05:36.8] PATIENT: No, that's all for now. Thanks for your help.
+[05:43.6] RECEPTIONIST: You're all set. The clinic team will be in touch soon. Have a great day.
+[05:45.0] PATIENT: You too. Goodbye.
+[05:49.1] RECEPTIONIST: Goodbye.
